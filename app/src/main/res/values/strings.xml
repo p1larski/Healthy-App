@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Asystent Zdrowia</string>
+    <string name="lista_pakiet_w">Lista pakietów</string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="login">Login</string>
+    <string name="zaloguj">Zaloguj</string>
+    <string name="has_o">Hasło</string>
+    <string name="twoje_aktywne_pakiety">Twoje aktywne pakiety:</string>
+    <string name="brak_aktywnych_pakiet_w">Brak aktywnych pakietów</string>
+    <string name="dodaj_nowe_pakiety">Dodaj nowe pakiety!</string>
+    <string name="pakiet_2">Pakiet 2</string>
+    <string name="opis_pakietu">Opis pakietu</string>
+    <string name="aktywno_1_x_razy_dziennie">Aktywność 1 - x razy dziennie</string>
+    <string name="aktywno_2_x_razy_dziennie">Aktywność 2 - x razy dziennie</string>
+    <string name="aktywno_3_x_razy_dziennie">Aktywność 3 - x razy dziennie</string>
+    <string name="aktywno_4_x_razy_dziennie">Aktywność 4 - x razy dziennie</string>
+    <string name="kiedy_chcesz_otrzymywa_powiadomienia">Kiedy chcesz otrzymywać powiadomienia?</string>
+</resources>
